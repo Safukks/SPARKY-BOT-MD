@@ -14,7 +14,7 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['+17604659269'] //ganti nomer lu
+global.vcardowner = ['17604659269'] //ganti nomer lu
 global.ownername = "SAFU KKS" //ganti nama lu
 global.developer = "SAFU" //name
 global.ytname = "YT: TROLL LOKHAM" //ur yt chanel name
@@ -23,15 +23,15 @@ global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
 global.location = "Kerala,MLPRM, AYYAYA" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['+17604659269'] //ur number
-global.ownernomer = "+17604659269" //ur number
-global.ownertag = '+17604659269' //ur tag number
-global.premium = ['+17604659269'] //ur premium number
+global.owner = ['17604659269'] //ur number
+global.ownernomer = "17604659269" //ur number
+global.ownertag = '17604659269' //ur tag number
+global.premium = ['17604659269'] //ur premium number
 global.botname = 'MUSIC LOVER+' //ur bot name
 global.ownername = "SAFU KKS"
 global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "+17604659269"
-global.pulsa = "+17604659269"
+global.dana = "17604659269"
+global.pulsa = "17604659269"
 global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
 global.websitex1 = "https://sparkymodswa.blogspot.com"
 global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
