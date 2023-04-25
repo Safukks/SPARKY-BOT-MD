@@ -14,24 +14,24 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['917012984396'] //ganti nomer lu
-global.ownername = "ASWIN SPARKY" //ganti nama lu
-global.developer = "ASWIN" //name
+global.vcardowner = ['916238984179'] //ganti nomer lu
+global.ownername = "CHARLY" //ganti nama lu
+global.developer = "CHARLY" //name
 global.ytname = "YT: SPARKY MON 777" //ur yt chanel name
 global.socialm = "https://www.instagram.com/aswin_sparky.exe" //taroh sosialmedia lu kalo ga punya biarin aja
 global.sgc = "https://chat.whatsapp.com/JTUrdnOziKD44ScoBoggmh" //ganti group lu
 global.location = "Kerala,TVM,Varkala" //ganti lokasi lu
 
 //bot bomdy 
-global.owner = ['917012984396'] //ur number
-global.ownernomer = "917012984396" //ur number
-global.ownertag = '917012984396' //ur tag number
-global.premium = ['917012984396'] //ur premium number
-global.botname = 'SPARKY MD+' //ur bot name
-global.ownername = "ASWIN SPARKY"
+global.owner = ['916238984179'] //ur number
+global.ownernomer = "916238984179" //ur number
+global.ownertag = '916238984179' //ur tag number
+global.premium = ['916238984179'] //ur premium number
+global.botname = 'PULIKKATTIL CHARLY+' //ur bot name
+global.ownername = "CHARLY"
 global.linkz = "https://youtube.com/@sparkymon777" //your theme url which will be displayed on whatsapp
-global.dana = "917012984396"
-global.pulsa = "917012984396"
+global.dana = "916238984179"
+global.pulsa = "916238984179"
 global.websitex = "https://youtube.com/@sparkymon777" //ur website to be displayed
 global.websitex1 = "https://sparkymodswa.blogspot.com"
 global.botscript = 'https://github.com/Sparkymon777/SPARKY-BOT-MD' //script link
